@@ -1,0 +1,40 @@
+Game stuff
+
+Vague plan of action:
+    1. Choose a starter pet (with different stats)
+    2. Create a leveling system
+    3. Create mini games to raise stats
+    4. Create some sort of fighting ring
+    5. Create some sort of racing
+
+Long term:
+    Multiple pets?
+    Evolutions?
+    Breeding?
+    Another "main event"
+
+
+--------------------------------------------------------------
+
+
+Choose a starter pet:
+    different starting stats
+    stat gain per level?
+        -randomized?
+
+Training
+    mini-games
+    careful with timing-based things, it can be shitty if they're laggy
+
+Goals
+    Arena for fighting
+    Some sort of racing?
+        Multiple kinds of racing?
+            chao style from sonic, different stats make different racing
+    No/limited control during these, the goal is to use training to beat them
+
+Multiple pets?
+
+Evolutions?
+
+Breeding?
